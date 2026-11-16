@@ -1,0 +1,2 @@
+# trabajo_autonomo_tecnologia_de_la_comunicacion_de_informacion_de_red
+Prácticas y simulaciones de redes realizadas en Cisco Packet Tracer.
